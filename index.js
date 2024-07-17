@@ -4,7 +4,7 @@
  * https://www.youtube.com/watch?v=4KHiSt0oLJ0
  * for allowing to request data from other domains (browser denies it by default)
  */
-
+ 
 const cors = require('cors');
 const express = require('express');
 const cookieParser = require('cookie-parser');
