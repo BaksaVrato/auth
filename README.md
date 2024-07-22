@@ -1,6 +1,5 @@
 ### auth
-Attempt on making cookie-based authentication app
-This project is a simple backend application built using MongoDB, Express, and Node.js. The goal is to learn and understand the basic structure of a backend application, and learn basics of Mongo
+Attempt on making cookie-based authentication app using MongoDB, Express.js and Node.js. The goal is to learn and understand the basic structure of a backend application, and learn basics of Mongo
 
 ## Technologies Used
 - **Node**
